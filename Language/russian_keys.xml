@@ -321,13 +321,11 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;
-0</Value>
+      <Value>Left button</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;
-1</Value>
+      <Value>Right button</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
